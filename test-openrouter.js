@@ -2,7 +2,7 @@ const axios = require('axios');
 const fs = require('fs');
 
 async function testOpenRouter() {
-  const apiKey = "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"; 
+  const apiKey = "abc........."; 
 
   try {
     const response = await axios.post(
